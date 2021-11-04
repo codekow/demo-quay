@@ -2,6 +2,12 @@
 
 The goal of this repo is to help demonstrate the value of quay and it's integrations.
 
+## QuickStart
+```
+oc apply -k catalog/openshift-container-storage-operator
+oc apply -k catalog/openshift-quay-operator
+oc apply -f resources/demo-quay-registry
+```
 
 # Links
 - [Docs - Deploy Quay on Openshift](https://access.redhat.com/documentation/en-us/red_hat_quay/3.6/html/deploy_red_hat_quay_on_openshift_with_the_quay_operator/index)
