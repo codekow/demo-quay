@@ -1,6 +1,7 @@
 #!/usr/bin/env bash 
 
 # author: Laine Minor @lainie-ftw lainelminor@gmail.com
+# url: https://github.com/lainie-ftw/demo-quay-on-openshift
 
 #Set up some variables
 noobaaconfigfile="resources/noobaa.yml"

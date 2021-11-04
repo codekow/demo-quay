@@ -11,7 +11,6 @@ oc apply -f resources/demo-quay-registry
 
 # Links
 - [Docs - Deploy Quay on Openshift](https://access.redhat.com/documentation/en-us/red_hat_quay/3.6/html/deploy_red_hat_quay_on_openshift_with_the_quay_operator/index)
-- https://github.com/lainie-ftw/demo-quay-on-openshift
 - [RH Public Sector Demos](https://redhatgov.io)
 
 # Links (Red Hat - Internal)
