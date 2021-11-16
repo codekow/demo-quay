@@ -15,7 +15,6 @@ oc apply -f resources/demo-quay-registry
 
 # Integrations
 - Sample integration with Microsoft Teams. Quay supports notifications through a variety of providers. e.g., the Clair scanner finds a vulnerability and posts an alert to the security team's channel in MS Teams. Many thanks to [@jilleJr][3] for the code snippet.
-- 
 ```shell
 {
     "@type": "MessageCard",
