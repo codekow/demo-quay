@@ -5,7 +5,8 @@ The goal of this repo is to help demonstrate the value of quay and it's integrat
 ## QuickStart
 ```
 oc apply -k catalog/openshift-container-storage-operator
-oc apply -k catalog/openshift-quay-operator
+oc apply -k catalog/quay-registry-operator/operator/overlays/stable-3.6
+oc apply -k catalog/quay-security-operator/operator/overlays/stable-3.6
 oc apply -f resources/demo-quay-registry
 ```
 
