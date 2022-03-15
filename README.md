@@ -15,6 +15,7 @@ oc apply -f resources/demo-quay-registry
 - [Docs - Accessing the registry][6]
 - [Docs - Image Registry Operator in OpenShift][7]
 - [RH Public Sector Demos][2]
+- [Workshop - Quay / Container Images][8]
 
 # Integrations
 - Sample integration with Microsoft Teams. Quay supports notifications through a variety of providers. e.g., the Clair scanner finds a vulnerability and posts an alert to the security team's channel in MS Teams. Many thanks to [@jilleJr][3] for the code snippet.
@@ -79,3 +80,4 @@ oc apply -f resources/demo-quay-registry
 [5]:	https://red.ht/ARORHPDS
 [6]:	https://docs.openshift.com/container-platform/4.9/registry/accessing-the-registry.html
 [7]:	https://docs.openshift.com/container-platform/4.9/registry/configuring-registry-operator.html
+[8]:	https://github.com/afouladi7/quay-workshop
