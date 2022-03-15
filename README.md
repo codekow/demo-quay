@@ -12,6 +12,8 @@ oc apply -f resources/demo-quay-registry
 
 # Links
 - [Docs - Deploy Quay on Openshift][1]
+- [Docs - Accessing the registry][6]
+- [Docs - Image Registry Operator in OpenShift][7]
 - [RH Public Sector Demos][2]
 
 # Integrations
@@ -75,3 +77,5 @@ oc apply -f resources/demo-quay-registry
 [3]:	https://github.com/jilleJr
 [4]:	https://start.learning.redhat.com/totara/1929
 [5]:	https://red.ht/ARORHPDS
+[6]:	https://docs.openshift.com/container-platform/4.9/registry/accessing-the-registry.html
+[7]:	https://docs.openshift.com/container-platform/4.9/registry/configuring-registry-operator.html
